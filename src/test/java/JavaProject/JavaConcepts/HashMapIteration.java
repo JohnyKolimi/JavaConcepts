@@ -20,6 +20,8 @@ public class HashMapIteration {
 		{
 			System.out.println("Key="+mapitem.getKey()+" Value="+mapitem.getValue());
 		}
+		
+		
 	}
 
 }
