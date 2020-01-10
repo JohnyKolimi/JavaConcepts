@@ -9,14 +9,14 @@ public class StringReverse {
 		
 		// Using String and charAt() method
 		
-//		String rev="";
-//		
-//		for(int i=input.length()-1;i>=0;i--)
-//		{
-//			rev=rev+input.charAt(i);
-//		}
-//		
-//		System.out.println(rev);
+		String rev="";
+		
+		for(int i=input.length()-1;i>=0;i--)
+		{
+			rev=rev+input.charAt(i);
+		}
+		
+		System.out.println(rev);
 		
 		
 		// Using StringBuffer class and reverse function
