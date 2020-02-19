@@ -21,6 +21,7 @@ public class StringManipulation {
 		System.out.println(str3.substring(midx-1, midx+2));
 		}
 		
+		
 	}
 
 }
