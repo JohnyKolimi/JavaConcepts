@@ -15,6 +15,10 @@ public class StarPattern {
 		}
 		
 		System.out.println();
+<<<<<<< HEAD
+=======
+		System.out.println();
+>>>>>>> branch 'master' of https://github.com/JohnyKolimi/JavaConcepts.git
 		
 		for(int i=8;i>=0;i--)
 		{

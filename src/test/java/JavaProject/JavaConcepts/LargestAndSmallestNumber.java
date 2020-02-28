@@ -7,7 +7,7 @@ public class LargestAndSmallestNumber {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		int[] numbers= {100,-67,98,0,14};
+		int[] numbers= {100,-67,98,0,14,-90};
 		
 		int largest=numbers[0];
 		int smallest=numbers[0];
